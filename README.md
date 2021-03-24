@@ -1,7 +1,6 @@
-<div  style="text-align:center;width: 200px">
- <p>dfssdfds</p>
-<img src="https://user-images.githubusercontent.com/63512716/112360892-92819d00-8cb1-11eb-8976-3eb3cebc43ce.png" width="250px"/>
- </div>
+<div  style="display: flex;justify-content: center;">
+ <img src="https://user-images.githubusercontent.com/63512716/112360892-92819d00-8cb1-11eb-8976-3eb3cebc43ce.png" width="250px"/>
+</div>
 <h1>Proffy é uma plataforma de estudos online que facilita o contato aluno e professor</h1>
 
 <h2>FUNCIONALIDADES: </h2>

@@ -13,5 +13,5 @@ Node.js</br>
 React</br>
 React Native</br>
 Expo</br>
-TypeScript
+<p>TypeScript</p>
 -

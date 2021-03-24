@@ -3,7 +3,7 @@
 Proffy é uma plataforma de estudos online que facilita o contato aluno e professor
 
 FUNCIONALIDADES: 
-1 - Lista de professores disponiveis
+1 - Lista de professores disponiveis</br>
 2 - Filtrar Professores disponiveis
 3 - Cadastra professor
 4 - O aluno pode selecionar o professor para assitir a aula

@@ -7,7 +7,7 @@ FUNCIONALIDADES: </br>
 2 - Filtrar Professores disponiveis</br>
 3 - Cadastra professor</br>
 4 - O aluno pode selecionar o professor para assitir a aula
-
+-
 TECNOLOGIAS: </br>
 Node.js</br>
 React</br>

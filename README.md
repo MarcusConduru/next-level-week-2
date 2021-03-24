@@ -2,15 +2,15 @@
 
 Proffy é uma plataforma de estudos online que facilita o contato aluno e professor
 
-FUNCIONALIDADES: 
+FUNCIONALIDADES: </br>
 1 - Lista de professores disponiveis</br>
-2 - Filtrar Professores disponiveis
-3 - Cadastra professor
+2 - Filtrar Professores disponiveis</br>
+3 - Cadastra professor</br>
 4 - O aluno pode selecionar o professor para assitir a aula
 
-TECNOLOGIAS: 
-Node.js
-React
-React Native
-Expo
+TECNOLOGIAS: </br>
+Node.js</br>
+React</br>
+React Native</br>
+Expo</br>
 TypeScript
